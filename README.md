@@ -1,7 +1,7 @@
 # Portfolio Website Project
-<img src="portofolio website project.png" width=50% height=50%>
-
 This project is a personal portfolio website aimed at showcasing your skills, projects, and experiences to potential employers, clients, or collaborators. It serves as an online representation of your professional identity and capabilities.
+
+<img src="portofolio website project.png" width=50% height=50%>
 
 ## Features
 
